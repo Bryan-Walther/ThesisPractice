@@ -1,0 +1,9 @@
+doc/html
+doc/latex
+.idea
+.vscode
+build
+cmake-build*
+
+opencv/
+opencv*/
